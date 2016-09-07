@@ -106,7 +106,7 @@ display: inline-block;
 
 
 .footer {
-background-color: #8BB0D1;
+background-color: white;
 width: auto;
 margin-right: 30px;
 margin-left: 30px;
@@ -115,7 +115,5 @@ bottom: 0;
 }
 
 
-.centrage {
-text-align: center;
-}
+
 
