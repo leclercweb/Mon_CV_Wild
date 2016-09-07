@@ -58,6 +58,7 @@ maring-bottom: 35px;
 float: left;
 }
 
+
 .right-box {
 background-color: rgb(9, 30, 45);
 height: auto;
@@ -113,4 +114,8 @@ height: 100px;
 bottom: 0;
 }
 
+
+.centrage {
+text-align: center;
+}
 
