@@ -17,7 +17,7 @@ padding-right: 22px;
 }
 
 
-.header{
+#header {
 width: auto;
 margin-top: 30px;
 margin-right: 30px;
@@ -37,7 +37,7 @@ text-align: center;
 color: blue;
 }
 
-.container {
+#container {
 background-color: #8BB0D1;
 padding: 35px;
 margin-right: 30px;
@@ -48,7 +48,7 @@ width: 90%;
 
 }
 
-.left-box {
+#left-box {
 background-color: rgb(9, 30, 45);
 width: 200px;
 height: 996px;
@@ -59,7 +59,7 @@ float: left;
 }
 
 
-.right-box {
+#right-box {
 background-color: rgb(9, 30, 45);
 height: auto;
 color: white;
@@ -71,7 +71,7 @@ display: inline-block;
 
 }
 
-.experience-box {
+#experience-box {
 margin-top: 50px;
 margin-right: 20px;
 margin-left: 20px;
@@ -79,7 +79,7 @@ background-color: white ;
 display: inline-block;
 }
 
-.studies-box {
+#studies-box {
 margin-top: 48px;
 margin-right: 20px;
 margin-left: 20px;
